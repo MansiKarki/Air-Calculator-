@@ -32,10 +32,10 @@ This project is an **Air Calculator** that uses your **hand gestures** to input 
 
 🚀 Getting Started
 1. Clone the Repository
-   ```bash
+```bash
    https://github.com/MansiKarki/Air-Calculator-.git
    ```
-    ```bash
+```bash
    cd Air-Calculator
    ```
 
