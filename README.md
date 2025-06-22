@@ -32,16 +32,23 @@ This project is an **Air Calculator** that uses your **hand gestures** to input 
 
 🚀 Getting Started
 1. Clone the Repository
+   ```bash
    https://github.com/MansiKarki/Air-Calculator-.git
+   ```
+    ```bash
    cd Air-Calculator
+   ```
 
 3. Install Dependencies
 Make sure Python 3.7+ is installed.
-   pip install opencv-python pygame cvzone
+ ```bash
+     pip install opencv-python pygame cvzone
+   ```
 
 If cvzone is not found, install directly from GitHub:
-   pip install git+https://github.com/cvzone/cvzone.git
-
+ ```bash
+     pip install git+https://github.com/cvzone/cvzone.git
+   ```
 
 🎯 Visual UI Feedback
 1. Numbers and operators are shown on screen.
